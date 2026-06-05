@@ -31,6 +31,4 @@ Gerenciadas via Poetry (`pyproject.toml`).
 ##  Dados
 
 Os arquivos `.csv` e `.parquet` utilizados no pipeline foram criados conforme sugerido no código do `etl.py` e executados via `pipeline.py`.
-# aula08_bootcamp
-# aula08_bootcamp
-# aula08_bootcamp
+
